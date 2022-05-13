@@ -1,3 +1,4 @@
 hello, world
 append
 baaaah
+feature3
